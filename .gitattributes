@@ -1,0 +1,7 @@
+# All text files should use LF
+*.js text eol=lf
+*.css text eol=lf
+*.html text eol=lf
+
+# Ensure CRLF for Windows-based text files (like .txt)
+*.txt text eol=crlf
